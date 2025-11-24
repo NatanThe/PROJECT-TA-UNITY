@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/BanjirScene1.unity
+    guid: 5777835195965344eb325a55b6a2b187
+  - enabled: 1
+    path: Assets/Scenes/BanjirScene2.unity
+    guid: c21e5f16521b79b4c9ac0d700a28a570
+  - enabled: 1
+    path: Assets/Scenes/BanjirScene3.unity
+    guid: 29855cd9fa10bd745aabe9a7c1a7d9f3
+  - enabled: 1
+    path: Assets/Scenes/BanjirScene4.unity
+    guid: 4128bc8e7c3181f4487abba0e90a2867
+  - enabled: 1
+    path: Assets/Scenes/BanjirScene5.unity
+    guid: ca702f8200eb7f847bd97de37414ef8d
+  - enabled: 1
+    path: Assets/Scenes/KebakaranScene1.unity
+    guid: cf4dc4e8a645f2d4cb15c64a9249ce1c
+  - enabled: 1
+    path: Assets/Scenes/KebakaranScene2.unity
+    guid: 9b722ab61ca5b7a47b7fd005e948f305
+  - enabled: 1
+    path: Assets/Scenes/KebakaranScene3.unity
+    guid: c4df1901cbd6291459a116bfc02e89b3
+  - enabled: 1
+    path: Assets/Scenes/KebakaranScene4.unity
+    guid: be9540456a6eb3e4081b1440b6cc02ac
+  - enabled: 1
+    path: Assets/Scenes/KebakaranScene5.unity
+    guid: 90d787538bebd2342996f008184f00d0
+  - enabled: 1
+    path: Assets/Scenes/AnginScene1.unity
+    guid: b32719061399af748b931e6263e50b32
+  - enabled: 1
+    path: Assets/Scenes/AnginScene2.unity
+    guid: bd9869cc9283e3546b84b8e6adfe08f5
+  - enabled: 1
+    path: Assets/Scenes/AnginScene3.unity
+    guid: e97a1807c6422384bb5728a60e7084be
+  - enabled: 1
+    path: Assets/Scenes/AnginScene4.unity
+    guid: 9fe11fb9a59ade8488db528bf285cf5b
+  - enabled: 1
+    path: Assets/Scenes/AnginScene5.unity
+    guid: 8b29c3abb2ad2f441b0b586fbcacada7
+  - enabled: 1
+    path: Assets/Scenes/LostSceneBanjir.unity
+    guid: dbdbfc008f227a44c9cd5e0157fac1da
+  - enabled: 1
+    path: Assets/Scenes/LostSceneKebakaran.unity
+    guid: 1552e08bd3c9c0341b5da1423dcae2fb
+  - enabled: 1
+    path: Assets/Scenes/LostSceneAngin.unity
+    guid: 72393281903f5f54db0fe23a08740fc2
+  - enabled: 1
+    path: Assets/Scenes/VictoryScene.unity
+    guid: b39ac79a6d7ad7048ba0575442d851ca
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
